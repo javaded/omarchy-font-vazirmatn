@@ -1,4 +1,4 @@
-# Maintainer: Your Name <youremail@example.com>
+# Maintainer: JED j.effatdoost@gmail.com
 pkgname=omarchy-font-vazirmatn
 pkgver=1.0
 pkgrel=1
